@@ -1,7 +1,6 @@
 
 # Case Study #1 - Danny's Diner
-*![img1](https://user-images.githubusercontent.com/11831222/133180078-9e953a32-ebd1-4e7b-9cf5-3f899b63216e.png)
-<img src="https://user-images.githubusercontent.com/11831222/133180078-9e953a32-ebd1-4e7b-9cf5-3f899b63216e.png" alt="drawing" style="width:100px;"/>
+<img src="https://user-images.githubusercontent.com/11831222/133180078-9e953a32-ebd1-4e7b-9cf5-3f899b63216e.png" alt="drawing" style="width:300px;"/>
  
 ## Problem Statement
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.

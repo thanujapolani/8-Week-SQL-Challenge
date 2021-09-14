@@ -1,6 +1,6 @@
 
 # Case Study #1 - Danny's Diner
-![img1](https://user-images.githubusercontent.com/11831222/133180078-9e953a32-ebd1-4e7b-9cf5-3f899b63216e.png)
+![img1](https://user-images.githubusercontent.com/11831222/133180078-9e953a32-ebd1-4e7b-9cf5-3f899b63216e.png = 250x250)
 
  
 ## Problem Statement

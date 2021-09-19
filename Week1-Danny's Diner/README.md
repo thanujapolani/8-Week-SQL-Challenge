@@ -9,7 +9,7 @@ ________________________________________________________________________________
 - [Problem Statement](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/README.md#problem-statement)
 - [Entity Relationship Diagram](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/README.md#entity-relationship-diagram)
 - [Case Study Questions](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/README.md#case-study-questions)
-- [Learnings]()
+- [Learnings](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/README.md#learnings)
 - [Solution](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/Danny's%20Diner%20Solution.md)
 - [Insights](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/Insights.md)
 

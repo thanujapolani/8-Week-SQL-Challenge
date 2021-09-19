@@ -9,8 +9,9 @@ ________________________________________________________________________________
 - [Problem Statement](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/README.md#problem-statement)
 - [Entity Relationship Diagram](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/README.md#entity-relationship-diagram)
 - [Case Study Questions](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/README.md#case-study-questions)
-- [Solution]
-- [Insights]
+- [Learnings]()
+- [Solution](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/Danny's%20Diner%20Solution.md)
+- [Insights](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week1-Danny's%20Diner/Insights.md)
 
 _______________________________________________________________________________________________________________________________________________________
 
@@ -36,3 +37,9 @@ ________________________________________________________________________________
 8.	What is the total items and amount spent for each member before they became a member?
 9.	If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10.	In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+### **Learnings**
+- Common Table Expressions
+- Group By Aggregates
+- Window Functions for ranking
+- Table Joins

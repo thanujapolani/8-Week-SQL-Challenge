@@ -7,9 +7,9 @@ ________________________________________________________________________________
 
 ## 📚 Table of Contents
 - [Problem Statement](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week2%20-%20Pizza%20Runner/README.md#problem-statement)
-- [Entity Relationship Diagram](https://github.com/thanujapolani/8-Week-SQL-Challenge/edit/main/Week2%20-%20Pizza%20Runner/README.md#entity-relationship-diagram)
-- [Case Study Questions](https://github.com/thanujapolani/8-Week-SQL-Challenge/edit/main/Week2%20-%20Pizza%20Runner/README.md#case-study-questions)
-- [Learnings](https://github.com/thanujapolani/8-Week-SQL-Challenge/edit/main/Week2%20-%20Pizza%20Runner/README.md#learnings)
+- [Entity Relationship Diagram](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week2%20-%20Pizza%20Runner/README.md#entity-relationship-diagram)
+- [Case Study Questions](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week2%20-%20Pizza%20Runner/README.md#case-study-questions)
+- [Learnings](https://github.com/thanujapolani/8-Week-SQL-Challenge/blob/main/Week2%20-%20Pizza%20Runner/README.md#learnings)
 - [Solution]()
 - [Insights]()
 
